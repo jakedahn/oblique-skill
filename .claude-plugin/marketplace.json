@@ -11,7 +11,7 @@
   "plugins": [
     {
       "name": "oblique-skills",
-      "source": ".",
+      "source": "./",
       "description": "Draw an oblique strategy card to season your coding session with lateral thinking. Inspired by Brian Eno and Peter Schmidt.",
       "version": "1.0.0",
       "author": {
