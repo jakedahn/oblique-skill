@@ -1,5 +1,7 @@
 # Oblique Skills
 
+![Oblique Skills](oblique-skills.png)
+
 A [Claude Code](https://claude.ai/code) plugin inspired by Brian Eno and Peter Schmidt's [Oblique Strategies](https://en.wikipedia.org/wiki/Oblique_Strategies) - a deck of cards offering creative prompts to break through blocks and introduce unexpected directions.
 
 Use `/oblique-skills:oblique` to draw a strategy card and season your coding session with lateral thinking.
