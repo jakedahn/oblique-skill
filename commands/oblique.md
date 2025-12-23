@@ -12,7 +12,7 @@ Inspired by Brian Eno and Peter Schmidt's Oblique Strategies - creative prompts 
 1. Run the script to get 4 random strategies:
 
 ```bash
-./skills/oblique/scripts/pick-strategies.sh -n 4
+${CLAUDE_PLUGIN_ROOT}/skills/oblique/scripts/pick-strategies.sh -n 4
 ```
 
 2. Present the strategies to the user via `AskUserQuestion`:
