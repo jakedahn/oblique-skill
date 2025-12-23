@@ -2,7 +2,7 @@
 
 A [Claude Code](https://claude.ai/code) plugin inspired by Brian Eno and Peter Schmidt's [Oblique Strategies](https://en.wikipedia.org/wiki/Oblique_Strategies) - a deck of cards offering creative prompts to break through blocks and introduce unexpected directions.
 
-Use `/oblique` to draw a strategy card and season your coding session with lateral thinking.
+Use `/oblique-skills:oblique` to draw a strategy card and season your coding session with lateral thinking.
 
 ## Installation
 
@@ -14,7 +14,7 @@ Use `/oblique` to draw a strategy card and season your coding session with later
 ## Usage
 
 ```
-/oblique
+/oblique-skills:oblique
 ```
 
 This presents you with 4 randomly-selected strategies. Pick one, then choose how to apply it:
@@ -26,7 +26,7 @@ This presents you with 4 randomly-selected strategies. Pick one, then choose how
 ## Example
 
 ```
-> /oblique
+> /oblique-skills:oblique
 
 Which oblique strategy would you like to apply?
   ○ Honor thy error as a hidden intention
