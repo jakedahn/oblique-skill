@@ -1,0 +1,32 @@
+{
+  "name": "oblique-skill",
+  "owner": {
+    "name": "Jake Dahn",
+    "email": "jake@shruggingface.com"
+  },
+  "metadata": {
+    "description": "Oblique Strategies for vibecoding - lateral thinking prompts for your coding sessions",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "oblique-skills",
+      "source": ".",
+      "description": "Draw an oblique strategy card to season your coding session with lateral thinking. Inspired by Brian Eno and Peter Schmidt.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Jake Dahn",
+        "url": "https://github.com/jakedahn"
+      },
+      "homepage": "https://github.com/jakedahn/oblique-skill",
+      "repository": "https://github.com/jakedahn/oblique-skill",
+      "keywords": [
+        "oblique-strategies",
+        "creativity",
+        "lateral-thinking",
+        "vibecoding"
+      ],
+      "category": "creativity"
+    }
+  ]
+}
